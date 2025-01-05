@@ -9,7 +9,7 @@ from tkinter import Tk, Label, ttk, Button, filedialog, LabelFrame, StringVar, R
 from tkinter.constants import E
 
 from PIL import Image, ImageTk
-from fitz import fitz
+import fitz
 
 import frontend.constants as c
 
