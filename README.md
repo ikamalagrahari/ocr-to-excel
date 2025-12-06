@@ -4,7 +4,8 @@
 
 
 # OCR Based Data Extraction into Excel 🧙‍♂️
----  
+
+
 
 ## The Developers -
 ### [Rutvik P. Gondekar](https://github.com/Rutvikgg)   
@@ -42,6 +43,10 @@ Say goodbye to the manual data entry abyss! Our product is documents management 
    ```bash
    python ocr_to_excel.py
    ```
+**Interface Design**
+
+   <img width="740" height="475" alt="image" src="https://github.com/user-attachments/assets/a91bc28e-b29d-4f79-9186-5cadce3b990e" />
+
 
 **Media**
 
@@ -54,6 +59,15 @@ https://github.com/Rutvikgg/ocr-to-excel/assets/133527690/2ddf89cd-be7e-496c-9c3
 - Mindee API (for advanced layout analysis) 🌐
 - openpyxl (to read/write Excel xlsx/xlsm/xltx/xltm files) 🗃️
 - Tkinter (for GUI development) 🖥️
+
+**Image Processing**
+
+![IMG-20251207-WA0008](https://github.com/user-attachments/assets/1a64bac6-8137-40a4-aa2f-fc9407556d0c)
+![IMG-20251207-WA0009](https://github.com/user-attachments/assets/aaa69f17-1149-4599-ab2a-8ec54f4b4b56)
+![IMG-20251207-WA0011](https://github.com/user-attachments/assets/64bc321c-7a5b-4aab-92d1-9adf01904437)
+
+
+
 
 **Contribute to the Spellbook:**
 
